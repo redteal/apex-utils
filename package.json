@@ -3,18 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "description": "Apex utilities for common coding tasks",
-  "main": "index.js",
   "scripts": {
     "test": "node build"
   },
-  "repository": "RedTeal/apex-utils",
+  "repository": "redteal/apex-utils",
   "author": "jon@redteal.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RedTeal/apex-utils/issues"
+    "url": "https://github.com/redteal/apex-utils/issues"
   },
-  "homepage": "https://github.com/RedTeal/apex-utils#readme",
+  "homepage": "https://github.com/redteal/apex-utils#readme",
   "dependencies": {
-    "sfdc-travisci-coveralls": "^0.0.3"
+    "sfdc-travisci-coveralls": "^0.0.4"
   }
 }
