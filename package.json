@@ -4,7 +4,7 @@
   "private": true,
   "description": "Apex utilities for common coding tasks",
   "scripts": {
-    "test": "node build"
+    "test": "sfdc-travisci-coveralls"
   },
   "repository": "redteal/apex-utils",
   "author": "jon@redteal.com",
@@ -13,7 +13,7 @@
     "url": "https://github.com/redteal/apex-utils/issues"
   },
   "homepage": "https://github.com/redteal/apex-utils#readme",
-  "dependencies": {
-    "sfdc-travisci-coveralls": "^0.0.4"
+  "devDependencies": {
+    "sfdc-travisci-coveralls": "^0.1.0"
   }
 }
